@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 npm install
+
+
 this project uses react responsive table install it using the below command
 npm i react-super-responsive-table
 ### `yarn start`
